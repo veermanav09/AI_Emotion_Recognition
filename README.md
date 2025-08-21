@@ -1,6 +1,8 @@
 # AI-based Emotion Recognition for Tailored Advertisements
 
 Multimodal (vision + audio + text) emotion recognition with late fusion. Includes a dummy dataset to run end-to-end without external downloads.
+It is also going for publication as Research Paper.
+
 
 ## Project Structure
 ```
